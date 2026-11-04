@@ -1,0 +1,3 @@
+Conclusion – Student Timetable Conflict Detection
+
+Refer to the Conclusion section in documentation.pdf.
