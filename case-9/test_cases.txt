@@ -1,0 +1,3 @@
+Test cases – Integrated Student Record Consistency Checker
+
+Refer to the Test Cases section in documentation.pdf.

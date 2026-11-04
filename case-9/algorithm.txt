@@ -1,0 +1,3 @@
+Algorithm – Integrated Student Record Consistency Checker
+
+Refer to the Algorithm section in documentation.pdf.
