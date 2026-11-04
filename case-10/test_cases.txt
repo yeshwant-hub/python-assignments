@@ -1,0 +1,3 @@
+Test cases – Multi-Criteria Internship Candidate Ranking
+
+Refer to the Test Cases section in documentation.pdf.
