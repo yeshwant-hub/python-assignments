@@ -4,10 +4,10 @@
 **Subject:** Python Programming
 
 **Student Details**
-- Name: Your Name
-- Roll Number: Your Roll Number
-- Branch: Your Branch
-- Section: Your Section
+- Name: m.yeshwant
+- Roll Number: 26001320
+- Branch: aiml
+- Section: 07
 
 ## Case Studies
 1. University Admission Decision Engine
