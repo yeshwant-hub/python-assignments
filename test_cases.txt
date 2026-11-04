@@ -1,3 +1,3 @@
-Test cases – Student Timetable Conflict Detection
+Test cases – Repeated Transaction Detection
 
 Refer to the Test Cases section in documentation.pdf.
