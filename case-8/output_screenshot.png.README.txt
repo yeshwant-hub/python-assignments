@@ -1,0 +1,1 @@
+output_screenshot.png is a required image file. Add the actual output_screenshot.png here after creating/capturing it.
