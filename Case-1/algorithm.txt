@@ -1,0 +1,3 @@
+Algorithm – University Admission Decision Engine
+
+Refer to the Algorithm section in documentation.pdf.
